@@ -1,1 +1,1 @@
-# Goursera-HTML-CSS-JS
+# Coursera-HTML-CSS-JS
